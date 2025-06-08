@@ -1,1 +1,0 @@
-# Checklist + status + mitigation notes
