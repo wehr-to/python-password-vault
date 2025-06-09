@@ -10,6 +10,7 @@ A lightweight, local password manager built in Python, designed with a security-
 - 🧪 OWASP-audited for security risks (see `docs/owasp_audit_notes.md`)
 - 🗂️ Local storage only — no remote API, no cloud dependency
 - 🛠️ Includes a dummy vault for safe demo and testing
+- 🐳 Containerized version of app available for testing
 
 ## 🧠 Why This Project Exists
 
