@@ -1,0 +1,1 @@
+# Optional dummy vault generator
