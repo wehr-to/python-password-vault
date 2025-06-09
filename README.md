@@ -51,10 +51,12 @@ python -c "from dev_utils import write_encrypted_dummy_vault; write_encrypted_du
 ## 🔍 Security & Audit Trail
 🔐 Encryption: AES-256 via cryptography.fernet, with PBKDF2 key derivation
 🛡️ Audit Notes: See docs/owasp_audit_notes.md
+
 🧪 Scans:
 - bandit for Python static security analysis
 - pip-audit for dependency vulnerability scanning
 - safety for CVE checks
+
 🚫 Secrets are never logged, stored in plaintext, or hardcoded
 
 ## 🧠 Learning Objectives
